@@ -55,4 +55,8 @@ The pipeline is designed to:
 - High-margin but low-volume brands
 
 ---
+<img width="1011" height="654" alt="Screenshot 2025-08-26 091504" src="https://github.com/user-attachments/assets/4f9a8d3b-5ff4-4e54-abd9-fbb9fbb34e77" />
 
+<img width="1855" height="877" alt="Screenshot 2025-08-26 091221" src="https://github.com/user-attachments/assets/ad0b72c7-b159-4bcd-9e4b-db020f6f8d25" />
+
+<img width="1853" height="859" alt="Screenshot 2025-08-26 091144" src="https://github.com/user-attachments/assets/52580299-9b1c-41fe-8c2d-fb5c8459bc91" />
